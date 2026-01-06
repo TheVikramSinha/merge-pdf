@@ -13,7 +13,6 @@
 ## 🖥️ Visual Interface
 
 ![System Interface Preview](system-preview.png)
-*(The interface features a scanning background, holographic glass panels, and neon-accented controls.)*
 
 ---
 
